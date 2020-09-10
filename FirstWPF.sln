@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWPF", "FirstWPF.csproj", "{7B3EBDDD-F56C-41DF-9833-D67B5BEFE8F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAspNet", "FirstAspNet\FirstAspNet.csproj", "{5903A625-43DB-4FC5-8A48-409038DC6F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstConsoleApp", "FirstConsoleApp\FirstConsoleApp.csproj", "{DFC098C6-3C01-450C-9F0C-6C76EC81D69B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B3EBDDD-F56C-41DF-9833-D67B5BEFE8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3EBDDD-F56C-41DF-9833-D67B5BEFE8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3EBDDD-F56C-41DF-9833-D67B5BEFE8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3EBDDD-F56C-41DF-9833-D67B5BEFE8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5903A625-43DB-4FC5-8A48-409038DC6F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5903A625-43DB-4FC5-8A48-409038DC6F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5903A625-43DB-4FC5-8A48-409038DC6F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5903A625-43DB-4FC5-8A48-409038DC6F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC098C6-3C01-450C-9F0C-6C76EC81D69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC098C6-3C01-450C-9F0C-6C76EC81D69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC098C6-3C01-450C-9F0C-6C76EC81D69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC098C6-3C01-450C-9F0C-6C76EC81D69B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A650E41-498D-40A3-8CCE-97A90CB8EE2F}
+	EndGlobalSection
+EndGlobal
